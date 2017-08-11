@@ -1,6 +1,6 @@
 '''
 OkanKARAHAN
-Çarpým Tablosu
+Ã‡arpÃ½m Tablosu
 '''
 # -*- coding: cp1254 -*-
 for i in range(1,11,1):
@@ -9,4 +9,4 @@ for i in range(1,11,1):
                       print  str(i) +"*"+str(j)+"=",str(k)
            print
 
-#Saygýlar.....
+#SaygÃ½lar.....
