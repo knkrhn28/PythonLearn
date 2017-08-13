@@ -8,5 +8,5 @@ def turevHesapla(poly):
             continue 
     return sonuc
 poly = (13.39, 0.0, 17.5, 3.0, 1.0)
-print turevHesapla(poly)
+print "Turevin Sonucu:",turevHesapla(poly)
 
